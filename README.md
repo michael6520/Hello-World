@@ -4,4 +4,4 @@ This is the only hello world program I've ever had to debug. If it doesn't go wi
 
 # Development Environment
 
-I wrote it in C++ using Visual Studio. C++ is the language I'm most familiar with, and it seemed fitting to use it to make an unnecessarily overcomplicated hello world program.
+I wrote it in C++ using Visual Studio. C++ seemed fitting for an unnecessarily overcomplicated hello world program, and I recently spent a lot of time working with it so it's fresh on my mind.
